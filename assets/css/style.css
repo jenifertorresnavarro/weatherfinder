@@ -1,0 +1,15 @@
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    height: 60px;
+    width: auto;
+    line-height: 60px;
+    background-color: lightblue;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+form {
+    font-size: 2rem;
+    text-align: left;
+}
